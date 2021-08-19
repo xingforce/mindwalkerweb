@@ -2,8 +2,6 @@
 facebook.com, 882358612097971, RESELLER, c3e20eee3f780d68
 
 # admob
-google.com, pub-4421621384688135, DIRECT, f08c47fec0942fa0
-google.com, pub-9795764691165464, DIRECT, f08c47fec0942fa0
 
 # applovin
 applovin.com, 37226b9f1b230acd91054a61cb3e31b5, DIRECT
